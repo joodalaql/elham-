@@ -1,1 +1,4 @@
-# elham-
+# elham-sa
+<html dir="rtl" lang="ar-SA"> <head> <meta content="origin" name="referrer">  <script nonce="zsw1DJPv0Mc0CwwvKaq_iQ">window.google = {};(function(){
+var c=this||self;var e=function(b){this.g=b};e.prototype.toString=function(){return this.g.toString()};
+var f=/^\s*(?!javascript:)(?:[a-z0-9+.-]+:|[^:\/?#]*(?:[\/?#]|$))/i;c.google.navigateTo=function(b,d,a){!/\/.*?[&?]gsc=1/.test(d.location.href)&&b!==d&&b.google?b.google.r&&(b.google.r=0,b=b.location,a instanceof e?a=a instanceof e&&a.constructor===e?a.g:"type_error:SafeUrl":a=f.test(a)?a:void 0,void 0!==a&&(b.href=a),d.location.replace("about:blank")):d.location.replace(a)};}).call(this);(function(){var redirectUrl='https://elham.sa/';google.navigateTo(parent,window,redirectUrl);})();</script> <noscript> <meta content="0;url=https://elham.sa/" http-equiv="refresh"> </noscript> </head>  </html>
